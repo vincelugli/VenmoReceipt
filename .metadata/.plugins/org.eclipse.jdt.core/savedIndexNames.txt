@@ -1,0 +1,7 @@
+INDEX VERSION 1.126+C:\Users\Vince\Documents\GitHub\VenmoReceipt\.metadata\.plugins\org.eclipse.jdt.core
+67157278.index
+4109174868.index
+1090473409.index
+1284074322.index
+1831560896.index
+1296964864.index
